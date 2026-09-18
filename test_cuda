@@ -1,0 +1,10 @@
+'''import torch
+print(torch.version)
+print(torch.version.cuda)
+print(torch.backends.cudnn.version())'''
+
+import torch
+print(torch.backends.cudnn.enabled)
+# 如果返回 True，则表示 cuDNN 已经安装并且在 PyTorch 中被启用了。
+
+

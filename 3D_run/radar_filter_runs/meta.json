@@ -1,0 +1,17 @@
+{
+  "d_model": 64,
+  "n_layers": 4,
+  "seq_len": 20,
+  "input_dim": 4,
+  "output_dim": 4,
+  "epoch": 20,
+  "best_val_loss": 353.6374234531466,
+  "best_val_rmse": 18.811396205537587,
+  "best_val_pos_rmse": 18.80456682258193,
+  "best_val_vel_rmse": 0.5068469362291165,
+  "total_parameters": 132676,
+  "batch_size": 256,
+  "use_amp": false,
+  "pos_weight": 1.0,
+  "vel_weight": 0.1
+}

@@ -1,0 +1,15 @@
+Best Validation Performance:
+
+Epoch: 20
+Total Loss: 353.637423
+Total RMSE: 18.8114
+Position RMSE: 18.80 m
+Velocity RMSE: 0.507 m/s
+
+Final Metrics:
+Train Loss: 380.845025
+Val Loss: 353.637423
+Train Pos RMSE: 19.51 m
+Val Pos RMSE: 18.80 m
+Train Vel RMSE: 0.495 m/s
+Val Vel RMSE: 0.507 m/s
